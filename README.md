@@ -6,7 +6,7 @@ I am [Luke Warner](https://www.linkedin.com/in/lukewarner/), BSc Computer Scienc
 
 - Comfortable with C#, Kotlin, and picking up new stacks quickly
 
-- Featured project: **[KleanPride](https://github.com/LukeWarner-dev/KleenPride-MobileCarDetailer)** - an Uber-inspired Android app for booking mobile car detailing, with Google Maps API integration for live navigation and location tracking
+- Featured project: **[KleenPride](https://github.com/LukeWarner-dev/KleenPride-MobileCarDetailer)** - an Uber-inspired Android app for booking mobile car detailing, with Google Maps API integration for live navigation and location tracking
 
 -📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lukewarner/) - [Gmail](lwarner.dev@gmail.com)
 
