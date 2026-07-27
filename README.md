@@ -2,7 +2,7 @@
 
 I am [Luke Warner](https://www.linkedin.com/in/lukewarner/), BSc Computer Science graduate based in South Africa, looking for a junior developer or internship role. C#/.NET background from my degree, and currently building out my skills.
 
--🔭 Currently open to internship and junior software developer roles in South Africa
+- Currently open to internship and junior software developer roles in South Africa
 
 - Comfortable with C#, Kotlin, and picking up new stacks quickly
 
