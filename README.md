@@ -9,3 +9,12 @@ I am [Luke Warner](https://www.linkedin.com/in/lukewarner/), BSc Software Engine
 -📌 Featured project: **[KleanPride](<repo-url>)** - an Uber-inspired Android app for booking mobile car detailing, with Google Maps API integration for live navigation and location tracking
 
 -📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lukewarner/) - [email](lwarner.dev@gmail.com)
+  ---
+## Tools & Tech
+*
+---
+## About Me
+* Dream to work for Valve one day
+* Love exercise
+* Big into CS2
+* Desire to grow into a well rounded software engineer. 
