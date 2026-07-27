@@ -4,9 +4,9 @@ I am [Luke Warner](https://www.linkedin.com/in/lukewarner/), BSc Computer Scienc
 
 -🔭 Currently open to internship and junior software developer roles in South Africa
 
--🛠️ Comfortable with C#, Kotlin, and picking up new stacks quickly
+- Comfortable with C#, Kotlin, and picking up new stacks quickly
 
--📌 Featured project: **[KleanPride](<repo-url>)** - an Uber-inspired Android app for booking mobile car detailing, with Google Maps API integration for live navigation and location tracking
+- Featured project: **[KleanPride](<repo-url>)** - an Uber-inspired Android app for booking mobile car detailing, with Google Maps API integration for live navigation and location tracking
 
 -📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lukewarner/) - [Gmail](lwarner.dev@gmail.com)
 
