@@ -13,7 +13,6 @@ I am [Luke Warner](https://www.linkedin.com/in/lukewarner/), BSc Software Engine
 ---
 ## Tools & Tech
 *
----
 ## About Me
 * Dream to work for Valve one day
 * Love exercise
