@@ -1,20 +1,28 @@
-## Hi there 💢
+## Hi, I'm Luke 👋
 
-I am [Luke Warner](https://www.linkedin.com/in/lukewarner/), BSc Computer Science graduate based in South Africa, looking for a junior developer or internship role. C#/.NET background from my degree, and currently building out my skills.
+BSc Information Technology graduate (Eduvos, 2025) based in South Africa, looking for a **junior software developer** role. I build Android apps and client websites, and I'm currently working through AWS and C# courses to round out my backend and cloud skills.
 
-- Currently open to internship and junior software developer roles in South Africa
+- 🔭 Open to junior developer and graduate roles in South Africa
+- 🌱 Currently learning: AWS (Solutions Architect Associate), C# / .NET, AI agents
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lukewarner/) · [lwarner.dev@gmail.com](mailto:lwarner.dev@gmail.com)
 
-- Comfortable with C#, Kotlin, and picking up new stacks quickly
+### 🛠️ Tools & Tech
 
-- Featured project: **[KleenPride](https://github.com/LukeWarner-dev/KleenPride-MobileCarDetailer)** - an Uber-inspired Android app for booking mobile car detailing, with Google Maps API integration for live navigation and location tracking
+**Languages:** C#, Java, Kotlin, JavaScript, HTML, CSS
+**Mobile:** Android, Jetpack Compose, Firebase, Google Maps API
+**Web:** Tailwind CSS, WordPress, Formspree
+**Learning:** AWS, .NET
 
--📫 Reach me: [LinkedIn](https://www.linkedin.com/in/lukewarner/) - [Gmail](lwarner.dev@gmail.com)
+### 🚀 Featured Work
 
----
-## Tools & Tech
-*
-## About Me
-* Dream to work for Valve one day
-* Love exercise
-* Big into CS2
-* Desire to grow into a well rounded software engineer. 
+**[KleenPride](https://github.com/LukeWarner-dev/KleenPride-MobileCarDetailer)**: an Uber-inspired Android app for booking mobile car detailing. Kotlin + Jetpack Compose front end, Firebase backend, Google Maps API for live navigation and location tracking.
+
+**Client websites (live):**
+- [cbcs.co.za](https://cbcs.co.za): responsive site for Crossberth Cold Stores, with a Formspree inquiry form and Schema.org structured data
+- [littlelearnerstutoring.co.za](https://littlelearnerstutoring.co.za): landing page and booking inquiries for a local tutoring business
+
+### 🎮 About Me
+
+- Gym regular and Counter-Strike 2 player
+- Dream: to work at Valve one day
+- Goal: grow into a well-rounded software engineer
