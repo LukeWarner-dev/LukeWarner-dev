@@ -46,5 +46,5 @@ Enquiry form with validation and spam protection · structured data for local SE
 ### 🎮 About Me
 
 - Gym regular and Counter-Strike 2 player
-- Dream: to work at Valve one day
-- Goal: grow into a well-rounded software engineer
+- Dream to work at Valve one day
+- Goal is to grow into a well-rounded software engineer
