@@ -45,6 +45,6 @@ Enquiry form with validation and spam protection · structured data for local SE
 
 ### 🎮 About Me
 
-- Gym regular and Counter-Strike 2 player
+- Gym and gaming regular 
 - Dream to work at Valve one day
 - Goal is to grow into a well-rounded software engineer
